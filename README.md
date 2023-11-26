@@ -122,14 +122,19 @@ templeschool.html
 ```
 
 ## Output:
-Server output
+### Server output
 ![Alt text](imagemaps.demo.png)
 
-Map output
-![Alt text](relaincedigital.png)
-![Alt text](srmgrands.png)
-![Alt text](templeschool.png)
-![Alt text](<rajamangalam police station.png>)
-![Alt text](L1gamingcafe.png)
+### Map output
+#### 1.Reliance digital
+![Alt text](zrelaincedigital.png)
+#### 2.Hotel SRM Grands
+![Alt text](zsrmgrands.png)
+#### 3.The Temple School
+![Alt text](ztempleschool.png)
+#### 4.Rajamangalam police station
+![Alt text](<zrajamangalamcops.png>)
+#### 5.L1 Gaming Cafe
+![Alt text](zl1gamingcafe.png)
 ## Result:
 The program for implementing image map is excuted sucessfully.
